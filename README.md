@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [TODO: Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Sharea Afre 👋</h1>
 <h3 align="center">IT Support Specialist | Desktop & Network Support</h3>
 
 <p align="center">
@@ -11,11 +11,11 @@
 
 ### 🙋‍♂️ About Me
 
-I am a results-driven IT Support Professional with **[TODO: X years]** of experience in managing hardware, software, and network infrastructures. I thrive on solving complex technical challenges and providing exceptional end-user support.
+I am a results-driven IT Support Professional with **4 years** of experience in managing hardware, software, and network infrastructures. I thrive on solving complex technical challenges and providing exceptional end-user support.
 
 My goal is to leverage my hybrid skills in both **desktop support** and **network administration** to ensure maximum system uptime, security, and efficiency.
 
-* 📫 How to reach me: **[TODO: your-email@example.com]**
+* 📫 How to reach me: **sharea.noc@gmail.com**
 * 📄 View my resume: **[TODO: Link to your resume PDF]**
 * LinkedIn: **[TODO: www.linkedin.com/in/your-profile]**
 
