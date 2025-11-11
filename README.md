@@ -17,7 +17,7 @@ My goal is to leverage my hybrid skills in both **desktop support** and **networ
 
 * 📫 How to reach me: **sharea.noc@gmail.com**
 * 📄 View my resume: **[TODO: Link to your resume PDF]**
-* [Limkedin Profile: https://tinyurl.com/mr336x86
+* LinkedIn Profile: https://tinyurl.com/mr336x86
 ---
 
 ### 🛠️ My Technical Toolkit
